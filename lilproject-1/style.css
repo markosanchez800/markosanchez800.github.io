@@ -1,3 +1,76 @@
 *{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+header {
+    position: fixed, center;
+    background-color: black;
+    border-bottom: 10px solid maroon;
+    border-width:100%;
+    
+    
+}
+
+h1{
+    color: maroon;
+    text-align: center;
+    font-size: 50px;
+}
+
+#cozyradio{
+    position: relative;
+    margin-top: 0px;
+}
+
+body{
+    background-color:rgb(75, 75, 75);
+}
+
+.box {
+    position:relative;
+    width:80px;
+    height:35px;
+    background-color:maroon;
+}
+
+.container{
+    width:400px;
+    height:300px;
+    border:10px solid maroon;
+    background-color:grey;
+    position:relative;
+    top: 10px;
+}
+
+h2{
+    font-style: italic;
+    text-indent: 5px;
+}
+
+
+.products {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.contact-sheet {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.information-about {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
